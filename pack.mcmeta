@@ -1,0 +1,9 @@
+{
+    "pack": {
+       "pack_format": 9,
+       "description": [
+          {"text":"Made by ","color":"#CBC8A4"},
+          {"text":"Someone who likes copy paste","color":"#AE9963","italic":true}
+       ]
+    }
+ }
